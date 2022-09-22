@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1512373403 source:g:\onedrive\bts\si4\projet - naval\naval\naval\input.cpp
+	"includes.h"
+
+1512661897 g:\onedrive\bts\si4\projet - naval\naval\naval\includes.h
+	<iostream>
+	<string>
+	<locale>
+	<windows.h>
+
+1512662077 source:g:\onedrive\bts\si4\projet - naval\naval\naval\main.cpp
+	"includes.h"
+
+1512084440 source:g:\onedrive\bts\si4\projet - naval\naval\naval\output.cpp
+	"includes.h"
+
+1512084453 source:g:\onedrive\bts\si4\projet - naval\naval\naval\put_ship.cpp
+	"includes.h"
+
+1512067717 source:g:\onedrive\bts\si4\projet - naval\naval\naval\maps.cpp
+	"includes.h"
+	<stdlib.h>
+	<time.h>
+	<process.h>
+
+1512660270 source:g:\onedrive\bts\si4\projet - naval\naval\naval\battle.cpp
+	"includes.h"
+
+1512080821 source:e:\onedrive\bts\si4\projet - naval\naval\naval\input.cpp
+	"includes.h"
+
+1512077913 e:\onedrive\bts\si4\projet - naval\naval\naval\includes.h
+	<iostream>
+	<string>
+	<locale>
+	<windows.h>
+
+1512083055 source:e:\onedrive\bts\si4\projet - naval\naval\naval\output.cpp
+	"includes.h"
+
+1512084047 source:e:\onedrive\bts\si4\projet - naval\naval\naval\battle.cpp
+	"includes.h"
+
+1512084196 source:e:\onedrive\bts\si4\projet - naval\naval\naval\destroy.cpp
+	"includes.h"
+
+1512080878 source:e:\onedrive\bts\si4\projet - naval\naval\naval\main.cpp
+	"includes.h"
+
+1512067717 source:e:\onedrive\bts\si4\projet - naval\naval\naval\maps.cpp
+	"includes.h"
+	<stdlib.h>
+	<time.h>
+	<process.h>
+
+1512079935 source:e:\onedrive\bts\si4\projet - naval\naval\naval\put_ship.cpp
+	"includes.h"
+
+1512084196 source:g:\onedrive\bts\si4\projet - naval\naval\naval\destroy.cpp
+	"includes.h"
+
+1512662042 source:g:\onedrive\bts\si4\projet - naval\naval\naval\ia.cpp
+	"includes.h"
+
