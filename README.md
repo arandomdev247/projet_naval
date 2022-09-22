@@ -1,10 +1,16 @@
 # projet_naval
 Un projet de bataille navale crée dans le cadre du BTS
 
-# Comment l'utiliser :
+# Comment l'utiliser
 
 Un executable est présent dans src/bin/Release. Il suffit de le lancer pour que le jeu démarre.
 
+# Quelques images
+
+![menu naval](https://github.com/arandomdev247/projet_naval/blob/main/images/Naval_menu.PNG)
+![menu naval utilisation 1](https://github.com/arandomdev247/projet_naval/blob/main/images/Naval.PNG)
+![menu naval utilisation 2](https://github.com/arandomdev247/projet_naval/blob/main/images/Naval_1.PNG)
+![menu naval utilisation 3](https://github.com/arandomdev247/projet_naval/blob/main/images/Naval_2.PNG)
 
 # Rappel des règles
 
